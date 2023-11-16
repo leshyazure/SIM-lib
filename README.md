@@ -16,9 +16,9 @@ Keep relative paths for 3D models in footprints, etc:
 
 ## Footprints library
 	
-        * SIM_Connectors.pretty/
-        * SIM_IC.pretty/
-        * SIM_PowerSupply.pretty/
+	* SIM_Connectors.pretty/
+	* SIM_IC.pretty/
+	* SIM_PowerSupply.pretty/
 
 ## 3D models
 
